@@ -25,3 +25,9 @@ You can install the required libraries using:
 - **log_file_path:** Path to the log file you want to analyze (e.g., sample.log).
 - **output_csv_path:** Path where you want to save the CSV report (e.g., log_analysis_results.csv).
 - **FAILED_LOGIN_THRESHOLD:** The threshold value for failed login attempts. Default is 10.
+# How to Use
+- 1.Place your log file (e.g., sample.log) in the same directory as the script or provide the correct path to the log file.
+- 2.Run the script:
+`python log_analysis.py`
+
+- 3.After execution, the results will be displayed in the terminal and saved to a CSV file (log_analysis_results.csv).
