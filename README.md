@@ -19,4 +19,4 @@ Before running this project, make sure you have the following installed:
 - collections
 - prettytable
 You can install the required libraries using:
-'pip install prettytable'
+`pip install prettytable`
