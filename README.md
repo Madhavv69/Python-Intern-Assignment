@@ -18,5 +18,6 @@ Before running this project, make sure you have the following installed:
 - csv
 - collections
 - prettytable
+
 You can install the required libraries using:
 `pip install prettytable`
