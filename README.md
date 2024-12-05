@@ -18,11 +18,5 @@ Before running this project, make sure you have the following installed:
 - csv
 - collections
 - prettytable
-
-IP Address,Failed Login Attempts
-Future Enhancements
-Implement more detailed filtering based on log levels and HTTP methods.
-Add support for more log formats.
-Integrate with a web interface for real-time log monitoring.
-License
-This project is licensed under the MIT License.
+You can install the required libraries using:
+pip install prettytable
