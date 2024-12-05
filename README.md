@@ -31,3 +31,19 @@ You can install the required libraries using:
 `python log_analysis.py`
 
 - 3.After execution, the results will be displayed in the terminal and saved to a CSV file (log_analysis_results.csv).
+# Example Output in Terminal
+### Requests Per IP
+| IP Address     | Request Count |
+|----------------|---------------|
+| 203.0.113.5    | 8             |
+| 198.51.100.23  | 8             |
+| 192.168.1.1    | 7             |
+| 10.0.0.2       | 6             |
+| 192.168.1.100  | 5             |
+
+### Most Frequently Accessed Endpoint
+`/login (Accessed 13 times)`
+
+### Suspicious Activity Detected
+No suspicious activity detected.
+
