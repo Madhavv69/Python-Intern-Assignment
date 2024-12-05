@@ -22,6 +22,6 @@ Before running this project, make sure you have the following installed:
 You can install the required libraries using:
 `pip install prettytable`
 # Configuration
-- log_file_path: Path to the log file you want to analyze (e.g., sample.log).
-- output_csv_path: Path where you want to save the CSV report (e.g., log_analysis_results.csv).
-- FAILED_LOGIN_THRESHOLD: The threshold value for failed login attempts. Default is 10.
+- **log_file_path:** Path to the log file you want to analyze (e.g., sample.log).
+- **output_csv_path:** Path where you want to save the CSV report (e.g., log_analysis_results.csv).
+- **FAILED_LOGIN_THRESHOLD:** The threshold value for failed login attempts. Default is 10.
