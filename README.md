@@ -1,6 +1,6 @@
-# VRV-Security-Python-Intern-Assignment
+# Python-Intern-Assignment
 # Overview
-This project analyzes web server log files to track traffic patterns, detect security threats, and generate useful reports. It is designed as an assignment for a security-focused Python internship at VRV Security.
+This project analyzes web server log files to track traffic patterns, detect security threats, and generate useful reports. It is designed as an assignment for a security-focused Python internship.
 
 # Features
 - Parse web server logs and extract useful data such as IP addresses, HTTP methods, status codes, and accessed endpoints.
